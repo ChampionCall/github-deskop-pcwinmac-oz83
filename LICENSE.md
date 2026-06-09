@@ -1,4 +1,4 @@
-# 
+# Gratuit GitHub Desktop scripts pour Mac OS | Personnalisé GitHub Desktop scripts pour PC Windows. Avec tests automatisés et diff visuel — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
